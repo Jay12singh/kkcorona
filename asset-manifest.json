@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/http//Jay12singh.github.io/kkcorona/static/css/main.20cb324d.chunk.css",
-    "main.js": "/http//Jay12singh.github.io/kkcorona/static/js/main.9434b1ca.chunk.js",
-    "main.js.map": "/http//Jay12singh.github.io/kkcorona/static/js/main.9434b1ca.chunk.js.map",
-    "runtime-main.js": "/http//Jay12singh.github.io/kkcorona/static/js/runtime-main.12a9ed15.js",
-    "runtime-main.js.map": "/http//Jay12singh.github.io/kkcorona/static/js/runtime-main.12a9ed15.js.map",
-    "static/js/2.98ed23e3.chunk.js": "/http//Jay12singh.github.io/kkcorona/static/js/2.98ed23e3.chunk.js",
-    "static/js/2.98ed23e3.chunk.js.map": "/http//Jay12singh.github.io/kkcorona/static/js/2.98ed23e3.chunk.js.map",
-    "index.html": "/http//Jay12singh.github.io/kkcorona/index.html",
-    "static/css/main.20cb324d.chunk.css.map": "/http//Jay12singh.github.io/kkcorona/static/css/main.20cb324d.chunk.css.map",
-    "static/js/2.98ed23e3.chunk.js.LICENSE.txt": "/http//Jay12singh.github.io/kkcorona/static/js/2.98ed23e3.chunk.js.LICENSE.txt"
+    "main.css": "/http//Jay12singh.github.io/updateincorona/static/css/main.20cb324d.chunk.css",
+    "main.js": "/http//Jay12singh.github.io/updateincorona/static/js/main.9434b1ca.chunk.js",
+    "main.js.map": "/http//Jay12singh.github.io/updateincorona/static/js/main.9434b1ca.chunk.js.map",
+    "runtime-main.js": "/http//Jay12singh.github.io/updateincorona/static/js/runtime-main.e915453a.js",
+    "runtime-main.js.map": "/http//Jay12singh.github.io/updateincorona/static/js/runtime-main.e915453a.js.map",
+    "static/js/2.98ed23e3.chunk.js": "/http//Jay12singh.github.io/updateincorona/static/js/2.98ed23e3.chunk.js",
+    "static/js/2.98ed23e3.chunk.js.map": "/http//Jay12singh.github.io/updateincorona/static/js/2.98ed23e3.chunk.js.map",
+    "index.html": "/http//Jay12singh.github.io/updateincorona/index.html",
+    "static/css/main.20cb324d.chunk.css.map": "/http//Jay12singh.github.io/updateincorona/static/css/main.20cb324d.chunk.css.map",
+    "static/js/2.98ed23e3.chunk.js.LICENSE.txt": "/http//Jay12singh.github.io/updateincorona/static/js/2.98ed23e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12a9ed15.js",
+    "static/js/runtime-main.e915453a.js",
     "static/js/2.98ed23e3.chunk.js",
     "static/css/main.20cb324d.chunk.css",
     "static/js/main.9434b1ca.chunk.js"
