@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/http//Jay12singh.github.io/livecovidtracker/static/css/main.20cb324d.chunk.css",
-    "main.js": "/http//Jay12singh.github.io/livecovidtracker/static/js/main.9434b1ca.chunk.js",
-    "main.js.map": "/http//Jay12singh.github.io/livecovidtracker/static/js/main.9434b1ca.chunk.js.map",
-    "runtime-main.js": "/http//Jay12singh.github.io/livecovidtracker/static/js/runtime-main.41cc9fa9.js",
-    "runtime-main.js.map": "/http//Jay12singh.github.io/livecovidtracker/static/js/runtime-main.41cc9fa9.js.map",
-    "static/js/2.98ed23e3.chunk.js": "/http//Jay12singh.github.io/livecovidtracker/static/js/2.98ed23e3.chunk.js",
-    "static/js/2.98ed23e3.chunk.js.map": "/http//Jay12singh.github.io/livecovidtracker/static/js/2.98ed23e3.chunk.js.map",
-    "index.html": "/http//Jay12singh.github.io/livecovidtracker/index.html",
-    "static/css/main.20cb324d.chunk.css.map": "/http//Jay12singh.github.io/livecovidtracker/static/css/main.20cb324d.chunk.css.map",
-    "static/js/2.98ed23e3.chunk.js.LICENSE.txt": "/http//Jay12singh.github.io/livecovidtracker/static/js/2.98ed23e3.chunk.js.LICENSE.txt"
+    "main.css": "/ccorona/static/css/main.20cb324d.chunk.css",
+    "main.js": "/ccorona/static/js/main.9434b1ca.chunk.js",
+    "main.js.map": "/ccorona/static/js/main.9434b1ca.chunk.js.map",
+    "runtime-main.js": "/ccorona/static/js/runtime-main.b13d6713.js",
+    "runtime-main.js.map": "/ccorona/static/js/runtime-main.b13d6713.js.map",
+    "static/js/2.98ed23e3.chunk.js": "/ccorona/static/js/2.98ed23e3.chunk.js",
+    "static/js/2.98ed23e3.chunk.js.map": "/ccorona/static/js/2.98ed23e3.chunk.js.map",
+    "index.html": "/ccorona/index.html",
+    "static/css/main.20cb324d.chunk.css.map": "/ccorona/static/css/main.20cb324d.chunk.css.map",
+    "static/js/2.98ed23e3.chunk.js.LICENSE.txt": "/ccorona/static/js/2.98ed23e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.41cc9fa9.js",
+    "static/js/runtime-main.b13d6713.js",
     "static/js/2.98ed23e3.chunk.js",
     "static/css/main.20cb324d.chunk.css",
     "static/js/main.9434b1ca.chunk.js"
